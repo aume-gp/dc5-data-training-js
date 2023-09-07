@@ -1,7 +1,7 @@
 let year = 2000;
 
 if (year % 400 === 0) {
-    alert('Annee bissextile');
+    console.log('Annee bissextile');
   } else {
-    alert('Annee non bissextile');
+    console.log('Annee non bissextile');
   }
